@@ -1,4 +1,7 @@
-﻿using System;
+﻿//
+// version 0.2016.6.28
+//
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
